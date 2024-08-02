@@ -1,0 +1,4 @@
+AWS
+https://github.com/iNeuronai/review_sc_hindi.git
+LAB DEPLOYMENT
+https://github.com/iNeuronai/review-scrapper-aws-main.git
